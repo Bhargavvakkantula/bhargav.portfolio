@@ -1,0 +1,9 @@
+.Contact{
+    background-color: rgb(20, 239, 199);
+    color: black;
+    border-width: 6px;
+    text-align: center;
+    font-size: x-large;
+    padding-top :60px; 
+    border-style: dotted;
+}

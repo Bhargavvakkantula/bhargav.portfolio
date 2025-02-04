@@ -1,0 +1,27 @@
+#one{
+    height: 100vh;
+    margin: 0;
+    background:linear-gradient(to bottom,rgb(255, 134, 134) 0%,rgb(255, 134, 134) 33.33%,rgb(115, 115, 236) 33.33%, rgb(115, 115, 236)  66.66%, rgb(139, 244, 139) 66.66%,rgb(139, 244, 139) 100%);
+    border-width: 6px; border-style: solid;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 50px;
+}
+#Two{
+   
+  
+    border-width: 6px;
+    text-align: center;
+    padding-top: 130px;
+    font-size: x-large;
+    
+
+}
+#Three{
+   
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 140px; 
+}

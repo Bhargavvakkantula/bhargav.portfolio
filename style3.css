@@ -1,0 +1,36 @@
+#one{
+    border-style: dashed;
+    height: 100vh;
+    margin: 0;
+    background:linear-gradient(to bottom,rgb(255, 243, 134) 0%,rgb(255, 243, 134) 25%,rgb(155, 155, 160) 25%, rgb(115, 115, 160)  50%, rgb(255, 143, 109) 50%,rgb(255, 143, 109) 75%,rgb(255, 255, 249) 75%,rgb(255, 255, 249) 100%);
+    border-width: 6px; border-style: solid;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 0px;
+
+    
+}
+#Two{
+    border-width: 6px;
+    text-align: center;
+    font-size: x-large;
+    padding-top :40px; 
+}
+#Three{
+     
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 30px;
+}
+#Four{
+    
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 10px;
+}
+
+
