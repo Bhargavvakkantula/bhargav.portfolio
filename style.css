@@ -41,14 +41,14 @@
     font-weight: bold;
     font-size: 60px; 
     color: rgb(209, 17, 17);
-    font-size:xx-large;
+    font-size:40px;
 
 }
 .Home-p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px ;
     flex-direction: column;
-    font-size: large;
+    font-size: 25px;
 
 }
 
